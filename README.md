@@ -169,4 +169,4 @@ MIT License
 
 ## Author
 
-Developed in Python for adaptive data structure experimentation.
+Created by JAYAPRAKASH V
